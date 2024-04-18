@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "cli run build:viewer --stream",
+    "startTime": "2024-04-18T08:02:15.033Z",
+    "endTime": "2024-04-18T08:06:34.240Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "@ohif/app:build:viewer",
+      "target": "build:viewer",
+      "projectName": "@ohif/app",
+      "hash": "13793389729383392697",
+      "startTime": "2024-04-18T08:02:15.054Z",
+      "endTime": "2024-04-18T08:06:34.239Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

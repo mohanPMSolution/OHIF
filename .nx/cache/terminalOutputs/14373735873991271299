@@ -1,0 +1,9 @@
+[2K[1G[1myarn run v1.22.22[22m[m
+[2K[1G[2m$ yarn run dev[22m
+[2K[1G[2m$ cross-env NODE_ENV=development webpack serve --config .webpack/webpack.pwa.js[22m
+'cross-env' is not recognized as an internal or external command,
+operable program or batch file.
+[2K[1G[31merror[39m Command failed with exit code 1.
+[2K[1G[94minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
+[2K[1G[31merror[39m Command failed with exit code 1.
+[2K[1G[94minfo[39m Visit [1mhttps://yarnpkg.com/en/docs/cli/run[22m for documentation about this command.
